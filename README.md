@@ -6,7 +6,7 @@
       
       <style>
       #id_center{
-         dislay: center;
+         dislay: flex;
          justify-content: center;
       }
       </style>
