@@ -9,27 +9,35 @@
          <img src="_ProjectImages/courseIcon.png" width="460" height="300">
       </p>
       <h1>Projects:</h1>
-      <p>
-         <strong>BreakPoint:</strong><br>
+         <h2>BreakPoint:</h1>
+         <p>
          <img src="_ProjectImages/breakpoint1.png" width="218">
          <img src="_ProjectImages/breakpoint3.png" width="218">
          <img src="_ProjectImages/breakpoint5.png" width="218">
          <img src="_ProjectImages/breakpoint6.png" width="218">
-         <br>
-         <strong>CoderSwag</strong><br>
+         </p>
+         <h2>CoderSwag</h2>
+         <p>
          <img src="_ProjectImages/coderswag1.png" width="218">
          <img src="_ProjectImages/coderswag2.png" width="218">
          <img src="_ProjectImages/coderswag3.png" width="218">
          <img src="_ProjectImages/coderswag4.png" width="218">
-         Pictures coming soon:<br>
-         <strong>MegaPill</strong><br>
-         Pictures coming soon:<br>
-         <strong>PixelCity</strong><br>
-         Pictures coming soon:<br>
-         <strong>Swoosh</strong><br>
-         Pictures coming soon:<br>
-         <strong>WindowShopper</strong><br>
-         Pictures coming soon:<br>
-      </p>
+         </p>
+         <h2>MegaPill</h2>
+         <p>
+         Pictures coming soon
+         </p>
+         <h2>PixelCity</h2>
+         <p>
+         Pictures coming soon:
+         </p>
+         <h2>Swoosh</h2>
+         <p>
+         Pictures coming soon:
+         </p>
+         <h2>WindowShopper</h2>
+         <p>
+         Pictures coming soon:
+         </p>
    </body>
 </html>
