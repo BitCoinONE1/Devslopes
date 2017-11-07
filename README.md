@@ -28,7 +28,7 @@
          <img src="_ProjectImages/coderswag4.png" width="218">
          </p>
          <h2>MegaPill</h2>
-         <p style="border: 2px solid pink;">
+         <p>
          <img src="_ProjectImages/megapill1.png" width="218">
          <img src="_ProjectImages/megapill2.png" width="218">
          <img src="_ProjectImages/megapill3.png" width="218">
