@@ -4,12 +4,7 @@
       
       
       
-      <style>
-      #id_center{
-         dislay: flex;
-         justify-content: center;
-      }
-      </style>
+  
    </head>
    <body>
       <img src="_ProjectImages/devslopesLogo.png">
@@ -33,7 +28,7 @@
          <img src="_ProjectImages/coderswag4.png" width="218">
          </p>
          <h2>MegaPill</h2>
-         <p id="id_center">
+         <p style="display: flex; justify-content: center;">
          <img src="_ProjectImages/megapill1.png" width="218">
          <img src="_ProjectImages/megapill2.png" width="218">
          <img src="_ProjectImages/megapill3.png" width="218">
