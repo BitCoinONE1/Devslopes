@@ -24,11 +24,11 @@
          <img src="_ProjectImages/coderswag4.png" width="218">
          </p>
          <h2>MegaPill</h2>
-         <p><center>
+         <p>
          <img src="_ProjectImages/megapill1.png" width="218">
          <img src="_ProjectImages/megapill2.png" width="218">
          <img src="_ProjectImages/megapill3.png" width="218">
-         </center></p>
+         </p>
          <h2>PixelCity</h2>
          <p>
          Pictures coming soon:
