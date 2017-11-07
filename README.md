@@ -17,6 +17,10 @@
          <img src="_ProjectImages/breakpoint6.png" width="218">
          <br>
          <strong>CoderSwag</strong><br>
+         <img src="_ProjectImages/coderswag1.png" width="218">
+         <img src="_ProjectImages/coderswag2.png" width="218">
+         <img src="_ProjectImages/coderswag3.png" width="218">
+         <img src="_ProjectImages/coderswag4.png" width="218">
          Pictures coming soon:<br>
          <strong>MegaPill</strong><br>
          Pictures coming soon:<br>
