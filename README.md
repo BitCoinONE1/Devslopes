@@ -14,36 +14,42 @@
       </p>
       <h1>Projects:</h1>
          <h2>BreakPoint:</h1>
-         <p>
+         <p align="center">
          <img src="_ProjectImages/breakpoint1.png" width="218">
          <img src="_ProjectImages/breakpoint3.png" width="218">
          <img src="_ProjectImages/breakpoint5.png" width="218">
          <img src="_ProjectImages/breakpoint6.png" width="218">
          </p>
          <h2>CoderSwag</h2>
-         <p>
+         <p align="center">
          <img src="_ProjectImages/coderswag1.png" width="218">
          <img src="_ProjectImages/coderswag2.png" width="218">
          <img src="_ProjectImages/coderswag3.png" width="218">
          <img src="_ProjectImages/coderswag4.png" width="218">
          </p>
          <h2>MegaPill</h2>
-         <p>
+         <p align="center">
          <img src="_ProjectImages/megapill1.png" width="218">
          <img src="_ProjectImages/megapill2.png" width="218">
          <img src="_ProjectImages/megapill3.png" width="218">
          </p>
          <h2>PixelCity</h2>
-         <p>
-         Pictures coming soon:
+         <p align="center">
+          <img src="_ProjectImages/pixelcity1.png" width="218">
+          <img src="_ProjectImages/pixelcity2.png" width="218">
+          <img src="_ProjectImages/pixelcity3.png" width="218">
          </p>
          <h2>Swoosh</h2>
-         <p>
-         Pictures coming soon:
+         <p align="center">
+         <img src="_ProjectImages/swoosh1.png" width="218">
+         <img src="_ProjectImages/swoosh2.png" width="218">
+         <img src="_ProjectImages/swoosh3.png" width="218">
          </p>
          <h2>WindowShopper</h2>
-         <p>
-         Pictures coming soon:
+         <p align="center">
+         <img src="_ProjectImages/windowshopper1.png" width="218">
+         <img src="_ProjectImages/windowshopper2.png" width="218">
+         <img src="_ProjectImages/windowshopper3.png" width="218">
          </p>
    </body>
 </html>
